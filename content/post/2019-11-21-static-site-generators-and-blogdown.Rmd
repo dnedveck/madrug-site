@@ -1,0 +1,12 @@
+---
+title: Static site generators and blogdown
+author: ''
+date: '2019-11-21'
+slug: static-site-generators-and-blogdown
+categories: []
+tags: []
+---
+
+[Derek Nedveck](dnedveck.com) talked about static site generators and the R package `blogdown`. 
+
+His presentation material is on [GitHub here](https://github.com/dnedveck/blogdown-pres)
