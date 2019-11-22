@@ -14,5 +14,8 @@ His presentation material is on [GitHub here](https://github.com/dnedveck/blogdo
 
 Here's a video of a talk given by Yihui on blogdown:
 
-{{< youtube  2WTWx0yknQQ >}}
+```{r, echo = FALSE}
+blogdown::shortcode("youtube", "2WTWx0yknQQ")
+```
+
 
