@@ -1,0 +1,12 @@
+---
+title: Making an API from your R code with Plumber
+author: ''
+date: '2019-12-18'
+slug: making-an-api-from-your-r-code-with-plumber
+categories: []
+tags: []
+---
+
+[Brett Kobold](www.brettkobold.com) will be giving a talk on how he used [Plumber](www.rplumber.io) to interface with Google Analytics API, create his own REST API, and make sparkline plots for his blog.
+
+

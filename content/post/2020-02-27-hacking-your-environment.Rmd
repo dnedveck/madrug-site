@@ -1,0 +1,12 @@
+---
+title: Hacking your environment
+author: ''
+date: '2020-01-23'
+slug: hacking-your-environment
+categories: []
+tags: []
+---
+
+Mark K gave a talk on making an efficient R workflow.
+
+> Start 2020 off right by developing good workflow habits. How much time do you take to set up your environment before you begin working? In this talk I'll argue that some quality attention to your set up and teardown practice goes a long way to convert your messy r-studio garage lab into a refined space station. We'll cover basics like working directory and .RProject files and more nuanced tricks like loading works in progess and preprocessed output files, setting global themes to streamline your reports' graphical styles and other things. It's time to Marie-Kondo your code.
