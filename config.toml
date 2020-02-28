@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Madison RUG"
+title = "madrug -- Madison R User Group"
 theme = "hugo-theme-basic"
 googleAnalytics = ""
 disqusShortname = ""
@@ -20,7 +20,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
   titleEmoji = ":tada:"
   # change this!
-  twitter = "siegerts"
+  twitter = ""
   
 [Permalinks]
   post = "post/:slug"
@@ -33,6 +33,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #  name = "post series"
 #  url = "series/"
   
+[[params.menu]]
+  name = "upcoming events"
+  url = "upcoming-events/"
+
 
 [[params.menu]]
   name = "about"
