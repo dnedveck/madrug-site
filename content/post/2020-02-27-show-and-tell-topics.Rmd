@@ -1,0 +1,17 @@
+---
+title: Show and Tell topics
+author: ''
+date: '2020-02-27'
+slug: show-and-tell-topics
+categories: []
+tags: []
+---
+
+We had a "show and tell" session, topics:
+
+- Rstudio::conf happened, their talks are online. Nichole recommended [Styling Shiny apps with Sass and Bootstrap 4 - Joe Cheng](https://resources.rstudio.com/rstudio-conf-2020/styling-shiny-apps-with-sass-and-bootstrap-4-joe-cheng), [Reproducible Shiny apps with shinymeta - Dr. Carson Sievert](https://resources.rstudio.com/rstudio-conf-2020/reproducible-shiny-apps-with-shinymeta-dr-carson-sievert), and [Technical Debt is a Social Problem - Gordon Shotwell](https://resources.rstudio.com/rstudio-conf-2020/technical-debt-is-a-social-problem-gordon-shotwell-2)
+- How to write Excel files with `writexl` (link to Derek's GitHub repo for the [R markdown](https://github.com/dnedveck/madrug-xrcise/blob/master/2020-02-27_xRcise_saving-to-excel-worksheets.Rmd) and [html](https://github.com/dnedveck/madrug-xrcise/blob/master/2020-02-27_xRcise_saving-to-excel-worksheets.html)). Also if you're keen on working with the styling of Excel sheets, try `openxlsx`
+- [UpSet diagrams](https://caleydo.org/tools/upset/)
+- [`swirl`](https://swirlstats.com/) for learning R interactively in the R console
+
+Also check out the [Social Science Computing Cooperative](https://ssc.wisc.edu, /sscc/pubs/stat.htm) for content on R written by Mark Banghart
