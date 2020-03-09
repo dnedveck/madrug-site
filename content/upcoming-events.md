@@ -6,11 +6,11 @@ title: Upcoming events
 
 **Location:** Room 301 at Madison Public Library (201 W Mifflin St, Madison, WI)
 
-Come join us for a talk from Rob Schwarz on a Shiny app that he developed for reporting. 
+Come join us for a talk from Rob Schwartz on a Shiny app that he developed for reporting. 
 
 Rob will give an overview of how one feature of the app is used to generate reports by creating a formatted Excel spreadsheet, Word Doc analysis, and a PowerPoint presentation. The data used for reporting is coming from call and web form data, as well as web metrics from Google Ads and Google Analytics.
 
-Rob will also cover how he handles errors that can occur in the app through the use of try(), tryCatch() and some custom infix functions.
+Rob will also cover how he handles errors that can occur in the app through the use of `try()`, `tryCatch()` and some custom infix functions.
 
 More detail from Rob:
 
